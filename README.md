@@ -10,17 +10,9 @@ for this part, instead of lena.png, use a captured image at a distance of 30 Inc
 similar to the below description:
 
 
-The output for Part 1 and Part 2 is shown below:
-
-
-
 Part 3: calculates the midpoint of each bounding box and euclidean distance is calculated between two object midpoints:
 
-
-
 For single object identified: 
-
-
 
 Final output:
 
